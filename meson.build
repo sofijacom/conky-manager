@@ -4,7 +4,7 @@ prefix = '/usr'
 bindir = prefix + '/bin'
 sharedir = prefix + '/share'
 launcherdir = sharedir + '/applications'
-app_name = 'conky-manager'
+app_name = 'conky-manager2'
 
 sources = [
         'src/AboutWindow.vala',
@@ -48,4 +48,4 @@ subdir('po')
 #    )
 #endif
 
-executable('conky-manager', sources, install : true, dependencies: dependencies)
+executable('conky-manager2', sources, install : true, dependencies: dependencies)
