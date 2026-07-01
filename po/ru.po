@@ -17,9 +17,6 @@ msgstr ""
 "X-Launchpad-Export-Date: 2017-11-30 08:28+0000\n"
 "X-Generator: PO File Editor https://pofile.net/free-po-editor\n"
 "Language: ru\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100 != 11) ? 0 : ((n%10 >= 2 "
-"&& n%10 <= 4 && (n%100 < 12 || n%100 > 14)) ? 1 : (n%10 == 0 || (n%10 >= 5 "
-"&& n%10 <=9) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3);\n"
 
 #: EditWidgetWindow.vala:384
 msgid "12 Hour"
